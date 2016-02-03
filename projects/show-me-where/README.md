@@ -5,7 +5,7 @@ The San Francisco Department of Public Works has a spreadsheet of food truck per
 # Basic facts
 - Source: <a href = "http://www.sfdpw.org">SF Department of Public Works</a>
 - Landing page: <a href="https://data.sfgov.org/Economy-and-Community/Mobile-Food-Schedule/jjew-r69b">Mobile Food Schedule</a>
-- Direct link to data:
+- <a href="https://data.sfgov.org/api/views/jjew-r69b/rows.csv?accessType=DOWNLOAD">Direct link to download data</a>
 - Data format: CSV
 - Rows: 1080
 
