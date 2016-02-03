@@ -1,11 +1,11 @@
-# About the dataset
+#About the dataset
 The San Francisco Department of Public Works has a spreadsheet of food truck permits given. It is updated daily, and includes the vendor's name, the permit number, location, description of the food, and much more.
 
 
 # Basic facts
-- Source: <a href = "http://www.sfdpw.org">SF Department of Public Works</a>
-- Landing page: <a href="https://data.sfgov.org/Economy-and-Community/Mobile-Food-Schedule/jjew-r69b">Mobile Food Schedule</a>
-- <a href="https://data.sfgov.org/api/views/jjew-r69b/rows.csv?accessType=DOWNLOAD">Direct link to download data</a>
+- Source: [SF Department of Public Works](http://www.sfdpw.org")
+- Landing page: [Mobile Food Schedule]("https://data.sfgov.org/Economy-and-Community/Mobile-Food-Schedule/jjew-r69b")
+- [Direct link to download data](https://data.sfgov.org/api/views/jjew-r69b/rows.csv?accessType=DOWNLOAD)
 - Data format: CSV
 - Rows: 1080
 
